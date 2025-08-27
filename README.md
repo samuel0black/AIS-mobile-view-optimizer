@@ -1,5 +1,5 @@
 # AIS-mobile-view-optimizer
-enables mobile view for is.stuba.sk
+enables mobile view for is.stuba.sk with amoled dark mode
 
 
 
